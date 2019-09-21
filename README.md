@@ -58,6 +58,9 @@ Det meste af opgaven er lavet efter mål på gul / rød men der var simpelthen f
 
 #Friday - Object Relational Mapping with JPA
 ##FIL: Examprob-Friday1
+
+###SELVE OPGAVEN - alt (burde) gerne være testet, har selvfølgelig også brugt postman til at teste restendpoints. 
+
 ##### General part
  - Explain the rationale behind the topic Object Relational Mapping and the Pros and Cons in using ORM.
  
